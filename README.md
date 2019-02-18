@@ -19,9 +19,9 @@ Checklist :
 * __Loading__ : The dataset can be loaded by moving the .pth and .txt files to the root folder and running the appropriate cells. The default files corrosponds to the DC Gan, trained for 50 iterations.
 
 For Vanilla GAN:
-![](https://github.com/adiah80/SAiDL-Winter-Assignment-2018/blob/master/Assignment_3/Van_cost_vs_iterations.png)
-![](https://github.com/adiah80/SAiDL-Winter-Assignment-2018/blob/master/Assignment_3/Van_final.png)
+![](https://github.com/adiah80/GAN-comparisions/blob/master/Van_cost_vs_iterations.png)
+![](https://github.com/adiah80/GAN-comparisions/blob/master/Van_final.png)
 
 For DC GAN:
-![](https://github.com/adiah80/SAiDL-Winter-Assignment-2018/blob/master/Assignment_3/DC_cost_vs_iterations.png)
-![](https://github.com/adiah80/SAiDL-Winter-Assignment-2018/blob/master/Assignment_3/DC_final.png)
+![](https://github.com/adiah80/GAN-comparisions/blob/master/DC_cost_vs_iterations.png)
+![](https://github.com/adiah80/GAN-comparisions/blob/master/DC_final.png)
