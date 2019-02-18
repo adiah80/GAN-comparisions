@@ -1,6 +1,8 @@
 # GAN-comparisions
 
-This repo contains my implementations of different GANs. <br><br>
+This repo contains my implementations of different GANs. <br>
+Most models need further training. <br>
+<br>
 Checklist :
 - [x] Vanilla GAN
 - [x] DC GAN
